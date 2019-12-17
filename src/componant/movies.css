@@ -1,0 +1,10 @@
+.form-control {
+  margin: 44px !important;
+}
+.btn {
+  padding: 10px !important;
+  margin: 35px !important;
+  /* width: 96px; */
+  height: 49px !important;
+  margin-top: auto !important;
+}
